@@ -34,7 +34,7 @@ Max 3 operaciones.
 
 Max 12 operaciones. 
 
-![](https://github.com/gemartin99/Push_swap/blob/master/push_swap5.gif)
+![](https://github.com/joserra-dev/42_push_swap/blob/master/push_swap5.gif)
 
 ### 🔹 100 Numeros:
 
@@ -46,7 +46,7 @@ Max 12 operaciones.
 | Menos de 1300 | 2 |
 | Menos de 1500 | 1 |
 
-![](https://github.com/gemartin99/Push_swap/blob/master/push_swap100.gif)
+![](https://github.com/joserra-dev/42_push_swap/blob/master/push_swap100.gif)
 
 ### 🔹 500 Numeros: 
 
@@ -63,26 +63,26 @@ Max 12 operaciones.
 Solo se debe hacer el bonus si la parte obligatoria esta al 100%. El bonus consiste en el desarrollo de un programa llamado checker , que verificará
 si tu stack A esta ordenado. Para ello deberás mandarle como argumentos los numeros del stack y una vez se ejecute el programa debes mandarle las operaciones que quieres realizar para ordenarlo. Cuando queramos dejar de mandarle operaciones haremos ```Ctrl + D``` y el checker nos dirá "OK" si esta ordenado o "KO" si no lo esta. La controlación de errores del checker debe ser la misma que en push_swap. 
 
-![](https://github.com/gemartin99/Push_swap/blob/master/checker.gif)
+![](https://github.com/joserra-dev/42_push_swap/blob/master/checker.gif)
 
 # TESTER ✅🆗
 
 Comprueba que todo este correcto antes de validar el proyecto! 
 
-➡️ [TESTER PROPIO](https://github.com/gemartin99/Push_swap_tester) ⬅️
+➡️ [TESTER PROPIO](https://github.com/joserra-dev/Push_swap_tester) ⬅️
 
 # Quizás pueda interesarte!
 
 ### - Para ver mi progresion en el common core 42 ↙️
 
-[AQUÍ](https://github.com/gemartin99/42cursus)
+[AQUÍ](https://github.com/)
 
 ### - Mi perfil en la intranet de 42 ↙️
 [AQUÍ](https://profile.intra.42.fr/users/gemartin)
 
 ### - Contacto 📥
 
-◦ Email: gemartin@student.42barcelona.com
+◦ Email: 
 
-◦ Linkedin: https://www.linkedin.com/in/gemartin99/
+◦ Linkedin: https://www.linkedin.com/
 
